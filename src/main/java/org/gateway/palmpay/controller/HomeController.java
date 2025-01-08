@@ -29,7 +29,7 @@ public class HomeController {
         PolicyStatusData data = new PolicyStatusData();
         data.setEffectiveDate("2024-01-31");
         data.setExpiryDate("2078-01-01");
-        data.setStatus("INACTIVE");
+        data.setStatus("ACTIVE");
         data.setTrackNumber("5013089512");
         policyStatus.setData(data);
 
